@@ -35,6 +35,8 @@ Analysts who explore warehouse tables and publish dashboards.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-datasource` | Connecting a Postgres or DuckDB datasource |
